@@ -1,0 +1,341 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.7	//
+BoolItem	./gem/colt/setup.rb	/^  class BoolItem < Item$/;"	kind:class	line:360	language:Ruby	class:ConfigTable.multipackage_entries
+Colt	./gem/colt/lib/colt.rb	/^module Colt$/;"	kind:module	line:4	language:Ruby
+Colt	./gem/colt/lib/colt/version.rb	/^module Colt$/;"	kind:module	line:1	language:Ruby
+ColtApp	./colt_app.rb	/^class ColtApp < NcursesApp$/;"	kind:class	line:7	language:Ruby
+ColtApp	./gem/colt/lib/colt/colt_app.rb	/^class ColtApp < NcursesApp$/;"	kind:class	line:7	language:Ruby
+ConfigTable	./gem/colt/setup.rb	/^class ConfigTable$/;"	kind:class	line:45	language:Ruby
+Ctag	./ctag.rb	/^class Ctag$/;"	kind:class	line:1	language:Ruby
+Ctag	./gem/colt/lib/colt/ctag.rb	/^class Ctag$/;"	kind:class	line:1	language:Ruby
+CtagParser	./ctag_parser.rb	/^class CtagParser$/;"	kind:class	line:3	language:Ruby
+CtagParser	./gem/colt/lib/colt/ctag_parser.rb	/^class CtagParser$/;"	kind:class	line:3	language:Ruby
+ENOTEMPTY	./gem/colt/setup.rb	/^    class ENOTEMPTY$/;"	kind:class	line:27	language:Ruby	class:Errno
+Enumerable	./gem/colt/setup.rb	/^  module Enumerable$/;"	kind:module	line:12	language:Ruby
+Errno	./gem/colt/setup.rb	/^  module Errno$/;"	kind:module	line:26	language:Ruby
+ExecItem	./gem/colt/setup.rb	/^  class ExecItem < Item$/;"	kind:class	line:421	language:Ruby	class:ConfigTable.multipackage_entries
+FileOperations	./gem/colt/setup.rb	/^module FileOperations$/;"	kind:module	line:536	language:Ruby	class:ConfigTable
+Hoe	./gem/colt/config/hoe.rb	/^class Hoe$/;"	kind:class	line:44	language:Ruby
+HookScriptAPI	./gem/colt/setup.rb	/^module HookScriptAPI$/;"	kind:module	line:689	language:Ruby	class:ConfigTable
+InfoWin	./gem/colt/lib/colt/info_win.rb	/^class InfoWin < Window$/;"	kind:class	line:3	language:Ruby
+InfoWin	./info_win.rb	/^class InfoWin < Window$/;"	kind:class	line:3	language:Ruby
+Installer	./gem/colt/setup.rb	/^class Installer$/;"	kind:class	line:1158	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti
+Item	./gem/colt/setup.rb	/^  class Item$/;"	kind:class	line:317	language:Ruby	class:ConfigTable.multipackage_entries
+MetaConfigEnvironment	./gem/colt/setup.rb	/^  class MetaConfigEnvironment$/;"	kind:class	line:473	language:Ruby	class:ConfigTable.multipackage_entries
+NcursesApp	./gem/colt/lib/colt/ncurses_app.rb	/^class NcursesApp$/;"	kind:class	line:3	language:Ruby
+NcursesApp	./ncurses_app.rb	/^class NcursesApp$/;"	kind:class	line:3	language:Ruby
+PackageSelectionItem	./gem/colt/setup.rb	/^  class PackageSelectionItem < Item$/;"	kind:class	line:451	language:Ruby	class:ConfigTable.multipackage_entries
+PathItem	./gem/colt/setup.rb	/^  class PathItem < Item$/;"	kind:class	line:382	language:Ruby	class:ConfigTable.multipackage_entries
+ProgramItem	./gem/colt/setup.rb	/^  class ProgramItem < Item$/;"	kind:class	line:395	language:Ruby	class:ConfigTable.multipackage_entries
+SelectItem	./gem/colt/setup.rb	/^  class SelectItem < Item$/;"	kind:class	line:401	language:Ruby	class:ConfigTable.multipackage_entries
+SetupError	./gem/colt/setup.rb	/^class SetupError < StandardError; end$/;"	kind:class	line:1570	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti
+Shebang	./gem/colt/setup.rb	/^  class Shebang$/;"	kind:class	line:1308	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+TagList	./gem/colt/lib/colt/tag_list.rb	/^class TagList < Window$/;"	kind:class	line:4	language:Ruby
+TagList	./tag_list.rb	/^class TagList < Window$/;"	kind:class	line:4	language:Ruby
+TestColt	./gem/colt/test/test_colt.rb	/^class TestColt < Test::Unit::TestCase$/;"	kind:class	line:3	language:Ruby
+TopWin	./gem/colt/lib/colt/top_win.rb	/^class TopWin < Window$/;"	kind:class	line:3	language:Ruby
+TopWin	./top_win.rb	/^class TopWin < Window$/;"	kind:class	line:3	language:Ruby
+ToplevelInstaller	./gem/colt/setup.rb	/^class ToplevelInstaller$/;"	kind:class	line:751	language:Ruby	class:ConfigTable
+ToplevelInstallerMulti	./gem/colt/setup.rb	/^class ToplevelInstallerMulti < ToplevelInstaller$/;"	kind:class	line:1024	language:Ruby	class:ConfigTable.ToplevelInstaller
+VERSION	./gem/colt/lib/colt/version.rb	/^  module VERSION #:nodoc:$/;"	kind:module	line:2	language:Ruby	class:Colt
+Window	./gem/colt/lib/colt/window.rb	/^class Window$/;"	kind:class	line:3	language:Ruby
+Window	./window.rb	/^class Window$/;"	kind:class	line:3	language:Ruby
+[]	./gem/colt/setup.rb	/^  def [](key)$/;"	kind:method	line:75	language:Ruby	class:ConfigTable
+[]=	./gem/colt/setup.rb	/^  def []=(key, val)$/;"	kind:method	line:79	language:Ruby	class:ConfigTable
+add	./gem/colt/setup.rb	/^  def add(item)$/;"	kind:method	line:99	language:Ruby	class:ConfigTable
+add_bool_config	./gem/colt/setup.rb	/^    def add_bool_config(name, default, desc)$/;"	kind:method	line:503	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+add_config	./gem/colt/setup.rb	/^    def add_config(item)$/;"	kind:method	line:499	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+add_path_config	./gem/colt/setup.rb	/^    def add_path_config(name, default, desc)$/;"	kind:method	line:507	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+add_search_chr	./gem/colt/lib/colt/tag_list.rb	/^  def add_search_chr(c)$/;"	kind:method	line:90	language:Ruby	class:TagList
+add_search_chr	./tag_list.rb	/^  def add_search_chr(c)$/;"	kind:method	line:90	language:Ruby	class:TagList
+add_window	./gem/colt/lib/colt/ncurses_app.rb	/^  def add_window(window)$/;"	kind:method	line:25	language:Ruby	class:NcursesApp
+add_window	./ncurses_app.rb	/^  def add_window(window)$/;"	kind:method	line:25	language:Ruby	class:NcursesApp
+binread	./gem/colt/setup.rb	/^def File.binread(fname)$/;"	kind:singleton method	line:33	language:Ruby
+bool_config?	./gem/colt/setup.rb	/^    def bool_config?(name)$/;"	kind:method	line:487	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+check	./gem/colt/setup.rb	/^    def check(path)$/;"	kind:method	line:389	language:Ruby	class:ConfigTable.multipackage_entries.PathItem
+check	./gem/colt/setup.rb	/^    def check(val)$/;"	kind:method	line:354	language:Ruby	class:ConfigTable.multipackage_entries.Item
+check	./gem/colt/setup.rb	/^    def check(val)$/;"	kind:method	line:371	language:Ruby	class:ConfigTable.multipackage_entries.BoolItem
+check	./gem/colt/setup.rb	/^    def check(val)$/;"	kind:method	line:413	language:Ruby	class:ConfigTable.multipackage_entries.SelectItem
+check	./gem/colt/setup.rb	/^    def check(val)$/;"	kind:method	line:465	language:Ruby	class:ConfigTable.multipackage_entries.PackageSelectionItem
+clean_dir_ext	./gem/colt/setup.rb	/^  def clean_dir_ext(rel)$/;"	kind:method	line:1486	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+clear	./gem/colt/lib/colt/window.rb	/^  def clear$/;"	kind:method	line:74	language:Ruby	class:Window
+clear	./window.rb	/^  def clear$/;"	kind:method	line:74	language:Ruby	class:Window
+clear_attr	./gem/colt/lib/colt/window.rb	/^  def clear_attr(opts)$/;"	kind:method	line:45	language:Ruby	class:Window
+clear_attr	./window.rb	/^  def clear_attr(opts)$/;"	kind:method	line:45	language:Ruby	class:Window
+close	./gem/colt/lib/colt/ncurses_app.rb	/^  def self.close$/;"	kind:singleton method	line:47	language:Ruby	class:NcursesApp
+close	./ncurses_app.rb	/^  def self.close$/;"	kind:singleton method	line:47	language:Ruby	class:NcursesApp
+command	./gem/colt/setup.rb	/^  def command(*args)$/;"	kind:method	line:653	language:Ruby	class:ConfigTable.FileOperations
+config	./gem/colt/setup.rb	/^  def config(key)$/;"	kind:method	line:798	language:Ruby	class:ConfigTable.ToplevelInstaller
+config?	./gem/colt/setup.rb	/^    def config?(name)$/;"	kind:method	line:483	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+config_dir_ext	./gem/colt/setup.rb	/^  def config_dir_ext(rel)$/;"	kind:method	line:1229	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+config_names	./gem/colt/setup.rb	/^    def config_names$/;"	kind:method	line:479	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+config_type	./gem/colt/setup.rb	/^    def config_type$/;"	kind:method	line:361	language:Ruby	class:ConfigTable.multipackage_entries.BoolItem
+config_type	./gem/colt/setup.rb	/^    def config_type$/;"	kind:method	line:383	language:Ruby	class:ConfigTable.multipackage_entries.PathItem
+config_type	./gem/colt/setup.rb	/^    def config_type$/;"	kind:method	line:396	language:Ruby	class:ConfigTable.multipackage_entries.ProgramItem
+config_type	./gem/colt/setup.rb	/^    def config_type$/;"	kind:method	line:407	language:Ruby	class:ConfigTable.multipackage_entries.SelectItem
+config_type	./gem/colt/setup.rb	/^    def config_type$/;"	kind:method	line:428	language:Ruby	class:ConfigTable.multipackage_entries.ExecItem
+config_type	./gem/colt/setup.rb	/^    def config_type$/;"	kind:method	line:459	language:Ruby	class:ConfigTable.multipackage_entries.PackageSelectionItem
+create_screen	./gem/colt/lib/colt/window.rb	/^  def create_screen$/;"	kind:method	line:18	language:Ruby	class:Window
+create_screen	./window.rb	/^  def create_screen$/;"	kind:method	line:18	language:Ruby	class:Window
+curr_objdir	./gem/colt/setup.rb	/^  def curr_objdir$/;"	kind:method	line:710	language:Ruby	class:ConfigTable.HookScriptAPI
+curr_srcdir	./gem/colt/setup.rb	/^  def curr_srcdir$/;"	kind:method	line:706	language:Ruby	class:ConfigTable.HookScriptAPI
+cycle_window	./colt_app.rb	/^  def cycle_window(dir)$/;"	kind:method	line:36	language:Ruby	class:ColtApp
+cycle_window	./gem/colt/lib/colt/colt_app.rb	/^  def cycle_window(dir)$/;"	kind:method	line:36	language:Ruby	class:ColtApp
+declare_packages	./gem/colt/setup.rb	/^    def declare_packages(list)$/;"	kind:method	line:526	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+delete_search_chr	./gem/colt/lib/colt/tag_list.rb	/^  def delete_search_chr$/;"	kind:method	line:86	language:Ruby	class:TagList
+delete_search_chr	./tag_list.rb	/^  def delete_search_chr$/;"	kind:method	line:86	language:Ruby	class:TagList
+diff?	./gem/colt/setup.rb	/^  def diff?(new_content, path)$/;"	kind:method	line:648	language:Ruby	class:ConfigTable.FileOperations
+dir	./gem/colt/setup.rb	/^def File.dir?(path)$/;"	kind:singleton method	line:40	language:Ruby
+directories_of	./gem/colt/setup.rb	/^  def directories_of(dir)$/;"	kind:method	line:679	language:Ruby	class:ConfigTable.FileOperations
+distclean_dir_ext	./gem/colt/setup.rb	/^  def distclean_dir_ext(rel)$/;"	kind:method	line:1504	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+dive_into	./gem/colt/setup.rb	/^  def dive_into(rel)$/;"	kind:method	line:1540	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+dllext	./gem/colt/setup.rb	/^  def dllext$/;"	kind:method	line:309	language:Ruby	class:ConfigTable.multipackage_entries
+each	./gem/colt/setup.rb	/^  def each(&block)$/;"	kind:method	line:87	language:Ruby	class:ConfigTable
+each_selected_installers	./gem/colt/setup.rb	/^  def each_selected_installers$/;"	kind:method	line:1130	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+evaluate	./gem/colt/setup.rb	/^    def evaluate(val, table)$/;"	kind:method	line:442	language:Ruby	class:ConfigTable.multipackage_entries.ExecItem
+exec_clean	./gem/colt/setup.rb	/^  def exec_clean$/;"	kind:method	line:1013	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_clean	./gem/colt/setup.rb	/^  def exec_clean$/;"	kind:method	line:1112	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+exec_clean	./gem/colt/setup.rb	/^  def exec_clean$/;"	kind:method	line:1474	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+exec_config	./gem/colt/setup.rb	/^  def exec_config$/;"	kind:method	line:1087	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+exec_config	./gem/colt/setup.rb	/^  def exec_config$/;"	kind:method	line:1222	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+exec_config	./gem/colt/setup.rb	/^  def exec_config$/;"	kind:method	line:990	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_distclean	./gem/colt/setup.rb	/^  def exec_distclean$/;"	kind:method	line:1017	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_distclean	./gem/colt/setup.rb	/^  def exec_distclean$/;"	kind:method	line:1119	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+exec_distclean	./gem/colt/setup.rb	/^  def exec_distclean$/;"	kind:method	line:1495	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+exec_install	./gem/colt/setup.rb	/^  def exec_install$/;"	kind:method	line:1100	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+exec_install	./gem/colt/setup.rb	/^  def exec_install$/;"	kind:method	line:1340	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+exec_install	./gem/colt/setup.rb	/^  def exec_install$/;"	kind:method	line:999	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_setup	./gem/colt/setup.rb	/^  def exec_setup$/;"	kind:method	line:1094	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+exec_setup	./gem/colt/setup.rb	/^  def exec_setup$/;"	kind:method	line:1245	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+exec_setup	./gem/colt/setup.rb	/^  def exec_setup$/;"	kind:method	line:995	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_show	./gem/colt/setup.rb	/^  def exec_show$/;"	kind:method	line:1007	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_task_traverse	./gem/colt/setup.rb	/^  def exec_task_traverse(task)$/;"	kind:method	line:1517	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+exec_test	./gem/colt/setup.rb	/^  def exec_test$/;"	kind:method	line:1003	language:Ruby	class:ConfigTable.ToplevelInstaller.print_usage
+exec_test	./gem/colt/setup.rb	/^  def exec_test$/;"	kind:method	line:1106	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+exec_test	./gem/colt/setup.rb	/^  def exec_test$/;"	kind:method	line:1454	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+existfiles	./gem/colt/setup.rb	/^  def existfiles$/;"	kind:method	line:1415	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+extconf	./gem/colt/setup.rb	/^  def extconf$/;"	kind:method	line:1237	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+extdir?	./gem/colt/setup.rb	/^  def extdir?(dir)$/;"	kind:method	line:667	language:Ruby	class:ConfigTable.FileOperations
+extra_deps	./gem/colt/config/hoe.rb	/^  def extra_deps$/;"	kind:method	line:45	language:Ruby	class:Hoe
+extract_selection	./gem/colt/setup.rb	/^  def extract_selection(list)$/;"	kind:method	line:1068	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+files_of	./gem/colt/setup.rb	/^  def files_of(dir)$/;"	kind:method	line:671	language:Ruby	class:ConfigTable.FileOperations
+find_all	./ctag.rb	/^  def self.find_all(params)$/;"	kind:singleton method	line:44	language:Ruby	class:Ctag
+find_all	./gem/colt/lib/colt/ctag.rb	/^  def self.find_all(params)$/;"	kind:singleton method	line:44	language:Ruby	class:Ctag
+find_all_by_class	./ctag.rb	/^  def self.find_all_by_class(klass)$/;"	kind:singleton method	line:28	language:Ruby	class:Ctag
+find_all_by_class	./gem/colt/lib/colt/ctag.rb	/^  def self.find_all_by_class(klass)$/;"	kind:singleton method	line:28	language:Ruby	class:Ctag
+find_all_by_file	./ctag.rb	/^  def self.find_all_by_file(file)$/;"	kind:singleton method	line:40	language:Ruby	class:Ctag
+find_all_by_file	./gem/colt/lib/colt/ctag.rb	/^  def self.find_all_by_file(file)$/;"	kind:singleton method	line:40	language:Ruby	class:Ctag
+find_all_by_kind	./ctag.rb	/^  def self.find_all_by_kind(kind)$/;"	kind:singleton method	line:32	language:Ruby	class:Ctag
+find_all_by_kind	./gem/colt/lib/colt/ctag.rb	/^  def self.find_all_by_kind(kind)$/;"	kind:singleton method	line:32	language:Ruby	class:Ctag
+find_all_by_tag	./ctag.rb	/^  def self.find_all_by_tag(tag)$/;"	kind:singleton method	line:36	language:Ruby	class:Ctag
+find_all_by_tag	./gem/colt/lib/colt/ctag.rb	/^  def self.find_all_by_tag(tag)$/;"	kind:singleton method	line:36	language:Ruby	class:Ctag
+find_tag	./gem/colt/lib/colt/tag_list.rb	/^  def find_tag$/;"	kind:method	line:20	language:Ruby	class:TagList
+find_tag	./tag_list.rb	/^  def find_tag$/;"	kind:method	line:20	language:Ruby	class:TagList
+fixed_text_at	./gem/colt/lib/colt/window.rb	/^  def fixed_text_at(y, x, str, size, opts = nil)$/;"	kind:method	line:49	language:Ruby	class:Window
+fixed_text_at	./window.rb	/^  def fixed_text_at(y, x, str, size, opts = nil)$/;"	kind:method	line:49	language:Ruby	class:Window
+fixup	./gem/colt/setup.rb	/^  def fixup$/;"	kind:method	line:295	language:Ruby	class:ConfigTable.multipackage_entries
+force_remove_file	./gem/colt/setup.rb	/^  def force_remove_file(path)$/;"	kind:method	line:610	language:Ruby	class:ConfigTable.FileOperations
+get_config	./gem/colt/setup.rb	/^  def get_config(key)$/;"	kind:method	line:691	language:Ruby	class:ConfigTable.HookScriptAPI
+glob_reject	./gem/colt/setup.rb	/^  def glob_reject(pats, ents)$/;"	kind:method	line:1430	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+glob_select	./gem/colt/setup.rb	/^  def glob_select(pat, ents)$/;"	kind:method	line:1425	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+globs2re	./gem/colt/setup.rb	/^  def globs2re(pats)$/;"	kind:method	line:1442	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+handle_command_key	./gem/colt/lib/colt/tag_list.rb	/^  def handle_command_key(c)$/;"	kind:method	line:113	language:Ruby	class:TagList
+handle_command_key	./tag_list.rb	/^  def handle_command_key(c)$/;"	kind:method	line:113	language:Ruby	class:TagList
+handle_key	./gem/colt/lib/colt/tag_list.rb	/^  def handle_key(c)$/;"	kind:method	line:78	language:Ruby	class:TagList
+handle_key	./gem/colt/lib/colt/top_win.rb	/^  def handle_key(c)$/;"	kind:method	line:44	language:Ruby	class:TopWin
+handle_key	./tag_list.rb	/^  def handle_key(c)$/;"	kind:method	line:78	language:Ruby	class:TagList
+handle_key	./top_win.rb	/^  def handle_key(c)$/;"	kind:method	line:44	language:Ruby	class:TopWin
+handle_search_key	./gem/colt/lib/colt/tag_list.rb	/^  def handle_search_key(c)$/;"	kind:method	line:94	language:Ruby	class:TagList
+handle_search_key	./tag_list.rb	/^  def handle_search_key(c)$/;"	kind:method	line:94	language:Ruby	class:TagList
+header	./gem/colt/lib/colt/top_win.rb	/^  def header$/;"	kind:method	line:26	language:Ruby	class:TopWin
+header	./top_win.rb	/^  def header$/;"	kind:method	line:26	language:Ruby	class:TopWin
+help_opt	./gem/colt/setup.rb	/^    def help_opt$/;"	kind:method	line:332	language:Ruby	class:ConfigTable.multipackage_entries.Item
+help_opt	./gem/colt/setup.rb	/^    def help_opt$/;"	kind:method	line:365	language:Ruby	class:ConfigTable.multipackage_entries.BoolItem
+hide_search	./gem/colt/lib/colt/top_win.rb	/^  def hide_search$/;"	kind:method	line:18	language:Ruby	class:TopWin
+hide_search	./top_win.rb	/^  def hide_search$/;"	kind:method	line:18	language:Ruby	class:TopWin
+hookfiles	./gem/colt/setup.rb	/^  def hookfiles$/;"	kind:method	line:1419	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+init_installers	./gem/colt/setup.rb	/^  def init_installers$/;"	kind:method	line:1053	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+init_installers	./gem/colt/setup.rb	/^  def init_installers$/;"	kind:method	line:834	language:Ruby	class:ConfigTable.ToplevelInstaller
+initialize	./colt_app.rb	/^  def initialize(tags)$/;"	kind:method	line:10	language:Ruby	class:ColtApp
+initialize	./ctag.rb	/^  def initialize(tag, file, ex_cmd)$/;"	kind:method	line:13	language:Ruby	class:Ctag
+initialize	./ctag_parser.rb	/^  def initialize(tagfile)$/;"	kind:method	line:6	language:Ruby	class:CtagParser
+initialize	./gem/colt/lib/colt/colt_app.rb	/^  def initialize(tags)$/;"	kind:method	line:10	language:Ruby	class:ColtApp
+initialize	./gem/colt/lib/colt/ctag.rb	/^  def initialize(tag, file, ex_cmd)$/;"	kind:method	line:13	language:Ruby	class:Ctag
+initialize	./gem/colt/lib/colt/ctag_parser.rb	/^  def initialize(tagfile)$/;"	kind:method	line:6	language:Ruby	class:CtagParser
+initialize	./gem/colt/lib/colt/info_win.rb	/^  def initialize(h, w, y, x)$/;"	kind:method	line:6	language:Ruby	class:InfoWin
+initialize	./gem/colt/lib/colt/ncurses_app.rb	/^  def initialize$/;"	kind:method	line:6	language:Ruby	class:NcursesApp
+initialize	./gem/colt/lib/colt/tag_list.rb	/^  def initialize(h, w, y)$/;"	kind:method	line:10	language:Ruby	class:TagList
+initialize	./gem/colt/lib/colt/top_win.rb	/^  def initialize(h, w, y)$/;"	kind:method	line:6	language:Ruby	class:TopWin
+initialize	./gem/colt/lib/colt/window.rb	/^  def initialize(rows, cols, y, x, opts = {})$/;"	kind:method	line:7	language:Ruby	class:Window
+initialize	./gem/colt/setup.rb	/^    def initialize(cmd, args = [])$/;"	kind:method	line:1323	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer.Shebang
+initialize	./gem/colt/setup.rb	/^    def initialize(config, installer)$/;"	kind:method	line:474	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+initialize	./gem/colt/setup.rb	/^    def initialize(name, selection, default, desc)$/;"	kind:method	line:402	language:Ruby	class:ConfigTable.multipackage_entries.SelectItem
+initialize	./gem/colt/setup.rb	/^    def initialize(name, selection, desc, &block)$/;"	kind:method	line:422	language:Ruby	class:ConfigTable.multipackage_entries.ExecItem
+initialize	./gem/colt/setup.rb	/^    def initialize(name, template, default, desc)$/;"	kind:method	line:318	language:Ruby	class:ConfigTable.multipackage_entries.Item
+initialize	./gem/colt/setup.rb	/^    def initialize(name, template, default, help_default, desc)$/;"	kind:method	line:452	language:Ruby	class:ConfigTable.multipackage_entries.PackageSelectionItem
+initialize	./gem/colt/setup.rb	/^  def initialize(ardir_root, config)$/;"	kind:method	line:1028	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti
+initialize	./gem/colt/setup.rb	/^  def initialize(ardir_root, config)$/;"	kind:method	line:791	language:Ruby	class:ConfigTable.ToplevelInstaller
+initialize	./gem/colt/setup.rb	/^  def initialize(config, srcroot, objroot)$/;"	kind:method	line:1165	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+initialize	./gem/colt/setup.rb	/^  def initialize(rbconfig)$/;"	kind:method	line:49	language:Ruby	class:ConfigTable
+initialize	./info_win.rb	/^  def initialize(h, w, y, x)$/;"	kind:method	line:6	language:Ruby	class:InfoWin
+initialize	./ncurses_app.rb	/^  def initialize$/;"	kind:method	line:6	language:Ruby	class:NcursesApp
+initialize	./tag_list.rb	/^  def initialize(h, w, y)$/;"	kind:method	line:10	language:Ruby	class:TagList
+initialize	./top_win.rb	/^  def initialize(h, w, y)$/;"	kind:method	line:6	language:Ruby	class:TopWin
+initialize	./window.rb	/^  def initialize(rows, cols, y, x, opts = {})$/;"	kind:method	line:7	language:Ruby	class:Window
+inspect	./gem/colt/setup.rb	/^  def inspect$/;"	kind:method	line:1172	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+inspect	./gem/colt/setup.rb	/^  def inspect$/;"	kind:method	line:802	language:Ruby	class:ConfigTable.ToplevelInstaller
+install	./gem/colt/setup.rb	/^  def install(from, dest, mode, prefix = nil)$/;"	kind:method	line:622	language:Ruby	class:ConfigTable.FileOperations
+install_dir_bin	./gem/colt/setup.rb	/^  def install_dir_bin(rel)$/;"	kind:method	line:1345	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+install_dir_conf	./gem/colt/setup.rb	/^  def install_dir_conf(rel)$/;"	kind:method	line:1364	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+install_dir_data	./gem/colt/setup.rb	/^  def install_dir_data(rel)$/;"	kind:method	line:1360	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+install_dir_ext	./gem/colt/setup.rb	/^  def install_dir_ext(rel)$/;"	kind:method	line:1353	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+install_dir_lib	./gem/colt/setup.rb	/^  def install_dir_lib(rel)$/;"	kind:method	line:1349	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+install_dir_man	./gem/colt/setup.rb	/^  def install_dir_man(rel)$/;"	kind:method	line:1370	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+install_files	./gem/colt/setup.rb	/^  def install_files(list, dest, mode)$/;"	kind:method	line:1374	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+invoke	./gem/colt/setup.rb	/^  def ToplevelInstaller.invoke$/;"	kind:singleton method	line:767	language:Ruby	class:ConfigTable.ToplevelInstaller
+invoke	./gem/colt/setup.rb	/^  def invoke$/;"	kind:method	line:806	language:Ruby	class:ConfigTable.ToplevelInstaller
+key?	./gem/colt/setup.rb	/^  def key?(name)$/;"	kind:method	line:91	language:Ruby	class:ConfigTable
+libfiles	./gem/colt/setup.rb	/^  def libfiles$/;"	kind:method	line:1381	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+load	./gem/colt/setup.rb	/^    def Shebang.load(path)$/;"	kind:singleton method	line:1309	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer.Shebang
+load_multipackage_entries	./gem/colt/setup.rb	/^  def load_multipackage_entries$/;"	kind:method	line:260	language:Ruby	class:ConfigTable
+load_rbconfig	./gem/colt/setup.rb	/^  def ToplevelInstaller.load_rbconfig$/;"	kind:singleton method	line:780	language:Ruby	class:ConfigTable.ToplevelInstaller
+load_savefile	./gem/colt/setup.rb	/^  def load_savefile$/;"	kind:method	line:121	language:Ruby	class:ConfigTable
+load_script	./gem/colt/setup.rb	/^  def load_script(path, inst = nil)$/;"	kind:method	line:111	language:Ruby	class:ConfigTable
+load_standard_entries	./gem/colt/setup.rb	/^  def load_standard_entries$/;"	kind:method	line:141	language:Ruby	class:ConfigTable
+lookup	./gem/colt/setup.rb	/^  def lookup(name)$/;"	kind:method	line:95	language:Ruby	class:ConfigTable
+make	./gem/colt/setup.rb	/^  def make(task = nil)$/;"	kind:method	line:663	language:Ruby	class:ConfigTable.FileOperations
+mapdir	./gem/colt/setup.rb	/^  def mapdir(ents)$/;"	kind:method	line:1397	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+mkdir_p	./gem/colt/setup.rb	/^  def mkdir_p(dirname, prefix = nil)$/;"	kind:method	line:538	language:Ruby	class:ConfigTable.FileOperations
+move_file	./gem/colt/setup.rb	/^  def move_file(src, dest)$/;"	kind:method	line:597	language:Ruby	class:ConfigTable.FileOperations
+multipackage	./gem/colt/setup.rb	/^  def ToplevelInstaller.multipackage?$/;"	kind:singleton method	line:776	language:Ruby	class:ConfigTable.ToplevelInstaller
+multipackage_entries	./gem/colt/setup.rb	/^  def multipackage_entries$/;"	kind:method	line:266	language:Ruby	class:ConfigTable
+names	./gem/colt/setup.rb	/^  def names$/;"	kind:method	line:83	language:Ruby	class:ConfigTable
+new_shebang	./gem/colt/setup.rb	/^  def new_shebang(old)$/;"	kind:method	line:1287	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+no_harm?	./gem/colt/setup.rb	/^  def no_harm?$/;"	kind:method	line:1151	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+no_harm?	./gem/colt/setup.rb	/^  def no_harm?$/;"	kind:method	line:1205	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+no_harm?	./gem/colt/setup.rb	/^  def no_harm?$/;"	kind:method	line:71	language:Ruby	class:ConfigTable
+noop	./gem/colt/setup.rb	/^  def noop(rel)$/;"	kind:method	line:1176	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+objdir_root	./gem/colt/setup.rb	/^  def objdir_root$/;"	kind:method	line:1187	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+objdir_root	./gem/colt/setup.rb	/^  def objdir_root$/;"	kind:method	line:846	language:Ruby	class:ConfigTable.ToplevelInstaller
+open_atomic_writer	./gem/colt/setup.rb	/^  def open_atomic_writer(path, &block)$/;"	kind:method	line:1298	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+opt	./gem/colt/lib/colt/window.rb	/^  def opt(option)$/;"	kind:method	line:33	language:Ruby	class:Window
+opt	./window.rb	/^  def opt(option)$/;"	kind:method	line:33	language:Ruby	class:Window
+packages	./gem/colt/setup.rb	/^    def packages$/;"	kind:method	line:520	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+packages=	./gem/colt/setup.rb	/^  def packages=(list)$/;"	kind:method	line:1044	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti
+parse	./ctag_parser.rb	/^  def parse$/;"	kind:method	line:10	language:Ruby	class:CtagParser
+parse	./gem/colt/lib/colt/ctag_parser.rb	/^  def parse$/;"	kind:method	line:10	language:Ruby	class:CtagParser
+parse	./gem/colt/setup.rb	/^    def Shebang.parse(line)$/;"	kind:singleton method	line:1318	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer.Shebang
+parse_ext	./ctag_parser.rb	/^  def parse_ext(ext)$/;"	kind:method	line:16	language:Ruby	class:CtagParser
+parse_ext	./gem/colt/lib/colt/ctag_parser.rb	/^  def parse_ext(ext)$/;"	kind:method	line:16	language:Ruby	class:CtagParser
+parse_opt	./gem/colt/setup.rb	/^  def parse_opt(opt)$/;"	kind:method	line:304	language:Ruby	class:ConfigTable.multipackage_entries
+parse_tags	./ctag_parser.rb	/^  def parse_tags(tags)$/;"	kind:method	line:34	language:Ruby	class:CtagParser
+parse_tags	./gem/colt/lib/colt/ctag_parser.rb	/^  def parse_tags(tags)$/;"	kind:method	line:34	language:Ruby	class:CtagParser
+parsearg_config	./gem/colt/setup.rb	/^  def parsearg_config$/;"	kind:method	line:905	language:Ruby	class:ConfigTable.ToplevelInstaller
+parsearg_global	./gem/colt/setup.rb	/^  def parsearg_global$/;"	kind:method	line:858	language:Ruby	class:ConfigTable.ToplevelInstaller
+parsearg_install	./gem/colt/setup.rb	/^  def parsearg_install$/;"	kind:method	line:931	language:Ruby	class:ConfigTable.ToplevelInstaller
+parsearg_no_options	./gem/colt/setup.rb	/^  def parsearg_no_options$/;"	kind:method	line:892	language:Ruby	class:ConfigTable.ToplevelInstaller
+path_config?	./gem/colt/setup.rb	/^    def path_config?(name)$/;"	kind:method	line:491	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+print_usage	./gem/colt/setup.rb	/^  def print_usage(f)$/;"	kind:method	line:1076	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+print_usage	./gem/colt/setup.rb	/^  def print_usage(out)$/;"	kind:method	line:948	language:Ruby	class:ConfigTable.ToplevelInstaller
+read	./gem/colt/setup.rb	/^  def File.read(fname)$/;"	kind:singleton method	line:18	language:Ruby
+refresh	./gem/colt/lib/colt/window.rb	/^  def refresh$/;"	kind:method	line:70	language:Ruby	class:Window
+refresh	./window.rb	/^  def refresh$/;"	kind:method	line:70	language:Ruby	class:Window
+relpath	./gem/colt/setup.rb	/^  def relpath$/;"	kind:method	line:1191	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+relpath	./gem/colt/setup.rb	/^  def relpath$/;"	kind:method	line:850	language:Ruby	class:ConfigTable.ToplevelInstaller
+remove	./gem/colt/setup.rb	/^  def remove(name)$/;"	kind:method	line:104	language:Ruby	class:ConfigTable
+remove_config	./gem/colt/setup.rb	/^    def remove_config(name)$/;"	kind:method	line:515	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+remove_file	./gem/colt/setup.rb	/^  def remove_file(path)$/;"	kind:method	line:617	language:Ruby	class:ConfigTable.FileOperations
+remove_tree	./gem/colt/setup.rb	/^  def remove_tree(path)$/;"	kind:method	line:567	language:Ruby	class:ConfigTable.FileOperations
+remove_tree0	./gem/colt/setup.rb	/^  def remove_tree0(path)$/;"	kind:method	line:577	language:Ruby	class:ConfigTable.FileOperations
+render	./gem/colt/lib/colt/info_win.rb	/^  def render$/;"	kind:method	line:18	language:Ruby	class:InfoWin
+render	./gem/colt/lib/colt/tag_list.rb	/^  def render$/;"	kind:method	line:45	language:Ruby	class:TagList
+render	./gem/colt/lib/colt/top_win.rb	/^  def render$/;"	kind:method	line:33	language:Ruby	class:TopWin
+render	./gem/colt/lib/colt/window.rb	/^  def render$/;"	kind:method	line:79	language:Ruby	class:Window
+render	./info_win.rb	/^  def render$/;"	kind:method	line:18	language:Ruby	class:InfoWin
+render	./tag_list.rb	/^  def render$/;"	kind:method	line:45	language:Ruby	class:TagList
+render	./top_win.rb	/^  def render$/;"	kind:method	line:33	language:Ruby	class:TopWin
+render	./window.rb	/^  def render$/;"	kind:method	line:79	language:Ruby	class:Window
+render_class	./gem/colt/lib/colt/info_win.rb	/^  def render_class(win)$/;"	kind:method	line:11	language:Ruby	class:InfoWin
+render_class	./info_win.rb	/^  def render_class(win)$/;"	kind:method	line:11	language:Ruby	class:InfoWin
+resize	./colt_app.rb	/^  def resize$/;"	kind:method	line:79	language:Ruby	class:ColtApp
+resize	./gem/colt/lib/colt/colt_app.rb	/^  def resize$/;"	kind:method	line:79	language:Ruby	class:ColtApp
+resize	./gem/colt/lib/colt/window.rb	/^  def resize(rows, cols, y, x)$/;"	kind:method	line:23	language:Ruby	class:Window
+resize	./window.rb	/^  def resize(rows, cols, y, x)$/;"	kind:method	line:23	language:Ruby	class:Window
+resolve	./gem/colt/setup.rb	/^    def resolve(table)$/;"	kind:method	line:344	language:Ruby	class:ConfigTable.multipackage_entries.Item
+resolve	./gem/colt/setup.rb	/^    def resolve(table)$/;"	kind:method	line:436	language:Ruby	class:ConfigTable.multipackage_entries.ExecItem
+rm_f	./gem/colt/setup.rb	/^  def rm_f(path)$/;"	kind:method	line:555	language:Ruby	class:ConfigTable.FileOperations
+rm_rf	./gem/colt/setup.rb	/^  def rm_rf(path)$/;"	kind:method	line:561	language:Ruby	class:ConfigTable.FileOperations
+ruby	./gem/colt/setup.rb	/^  def ruby(*args)$/;"	kind:method	line:659	language:Ruby	class:ConfigTable.FileOperations
+rubyextentions	./gem/colt/setup.rb	/^  def rubyextentions(dir)$/;"	kind:method	line:1385	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+rubyforge_username	./gem/colt/config/hoe.rb	/^def rubyforge_username$/;"	kind:method	line:17	language:Ruby
+run	./colt_app.rb	/^  def run$/;"	kind:method	line:46	language:Ruby	class:ColtApp
+run	./gem/colt/lib/colt/colt_app.rb	/^  def run$/;"	kind:method	line:46	language:Ruby	class:ColtApp
+run	./gem/colt/lib/colt/ncurses_app.rb	/^  def run$/;"	kind:method	line:29	language:Ruby	class:NcursesApp
+run	./ncurses_app.rb	/^  def run$/;"	kind:method	line:29	language:Ruby	class:NcursesApp
+run_hook	./gem/colt/setup.rb	/^  def run_hook(id)$/;"	kind:method	line:1141	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+run_hook	./gem/colt/setup.rb	/^  def run_hook(id)$/;"	kind:method	line:1555	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+run_metaconfigs	./gem/colt/setup.rb	/^  def run_metaconfigs$/;"	kind:method	line:1035	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti
+run_metaconfigs	./gem/colt/setup.rb	/^  def run_metaconfigs$/;"	kind:method	line:830	language:Ruby	class:ConfigTable.ToplevelInstaller
+save	./gem/colt/setup.rb	/^  def save$/;"	kind:method	line:132	language:Ruby	class:ConfigTable
+savefile	./gem/colt/setup.rb	/^  def savefile$/;"	kind:method	line:117	language:Ruby	class:ConfigTable
+scr_size	./gem/colt/lib/colt/ncurses_app.rb	/^  def scr_size$/;"	kind:method	line:18	language:Ruby	class:NcursesApp
+scr_size	./ncurses_app.rb	/^  def scr_size$/;"	kind:method	line:18	language:Ruby	class:NcursesApp
+search_mode?	./gem/colt/lib/colt/tag_list.rb	/^  def search_mode?$/;"	kind:method	line:74	language:Ruby	class:TagList
+search_mode?	./tag_list.rb	/^  def search_mode?$/;"	kind:method	line:74	language:Ruby	class:TagList
+select_next	./gem/colt/lib/colt/tag_list.rb	/^  def select_next$/;"	kind:method	line:27	language:Ruby	class:TagList
+select_next	./tag_list.rb	/^  def select_next$/;"	kind:method	line:27	language:Ruby	class:TagList
+select_prev	./gem/colt/lib/colt/tag_list.rb	/^  def select_prev$/;"	kind:method	line:34	language:Ruby	class:TagList
+select_prev	./tag_list.rb	/^  def select_prev$/;"	kind:method	line:34	language:Ruby	class:TagList
+selection	./gem/colt/lib/colt/tag_list.rb	/^  def selection$/;"	kind:method	line:41	language:Ruby	class:TagList
+selection	./tag_list.rb	/^  def selection$/;"	kind:method	line:41	language:Ruby	class:TagList
+set	./gem/colt/setup.rb	/^    def set(val)$/;"	kind:method	line:348	language:Ruby	class:ConfigTable.multipackage_entries.Item
+set_attr	./gem/colt/lib/colt/window.rb	/^  def set_attr(opts)$/;"	kind:method	line:41	language:Ruby	class:Window
+set_attr	./window.rb	/^  def set_attr(opts)$/;"	kind:method	line:41	language:Ruby	class:Window
+set_config	./gem/colt/setup.rb	/^  def set_config(key, val)$/;"	kind:method	line:698	language:Ruby	class:ConfigTable.HookScriptAPI
+set_config_default	./gem/colt/setup.rb	/^    def set_config_default(name, default)$/;"	kind:method	line:511	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+setup	./gem/colt/test/test_colt.rb	/^  def setup$/;"	kind:method	line:5	language:Ruby	class:TestColt
+setup_dir_bin	./gem/colt/setup.rb	/^  def setup_dir_bin(rel)$/;"	kind:method	line:1249	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+setup_dir_ext	./gem/colt/setup.rb	/^  def setup_dir_ext(rel)$/;"	kind:method	line:1257	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+setup_rb_error	./gem/colt/setup.rb	/^def setup_rb_error(msg)$/;"	kind:method	line:1572	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti
+show_search	./gem/colt/lib/colt/top_win.rb	/^  def show_search(str)$/;"	kind:method	line:13	language:Ruby	class:TopWin
+show_search	./top_win.rb	/^  def show_search(str)$/;"	kind:method	line:13	language:Ruby	class:TopWin
+show_search?	./gem/colt/lib/colt/top_win.rb	/^  def show_search?$/;"	kind:method	line:22	language:Ruby	class:TopWin
+show_search?	./top_win.rb	/^  def show_search?$/;"	kind:method	line:22	language:Ruby	class:TopWin
+srcdir_root	./gem/colt/setup.rb	/^  def srcdir_root$/;"	kind:method	line:1183	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+srcdir_root	./gem/colt/setup.rb	/^  def srcdir_root$/;"	kind:method	line:842	language:Ruby	class:ConfigTable.ToplevelInstaller
+srcdirectories	./gem/colt/setup.rb	/^  def srcdirectories(path = '.')$/;"	kind:method	line:742	language:Ruby	class:ConfigTable.HookScriptAPI
+srcdirectory?	./gem/colt/setup.rb	/^  def srcdirectory?(path)$/;"	kind:method	line:722	language:Ruby	class:ConfigTable.HookScriptAPI
+srcentries	./gem/colt/setup.rb	/^  def srcentries(path = '.')$/;"	kind:method	line:730	language:Ruby	class:ConfigTable.HookScriptAPI
+srcexist?	./gem/colt/setup.rb	/^  def srcexist?(path)$/;"	kind:method	line:718	language:Ruby	class:ConfigTable.HookScriptAPI
+srcfile	./gem/colt/setup.rb	/^  def srcfile(path)$/;"	kind:method	line:714	language:Ruby	class:ConfigTable.HookScriptAPI
+srcfile?	./gem/colt/setup.rb	/^  def srcfile?(path)$/;"	kind:method	line:726	language:Ruby	class:ConfigTable.HookScriptAPI
+srcfiles	./gem/colt/setup.rb	/^  def srcfiles(path = '.')$/;"	kind:method	line:736	language:Ruby	class:ConfigTable.HookScriptAPI
+standard_entries	./gem/colt/setup.rb	/^  def standard_entries(rbconfig)$/;"	kind:method	line:147	language:Ruby	class:ConfigTable
+tags	./ctag.rb	/^  def self.tags$/;"	kind:singleton method	line:24	language:Ruby	class:Ctag
+tags	./ctag.rb	/^  def self.tags=(tags)$/;"	kind:singleton method	line:20	language:Ruby	class:Ctag
+tags	./gem/colt/lib/colt/ctag.rb	/^  def self.tags$/;"	kind:singleton method	line:24	language:Ruby	class:Ctag
+tags	./gem/colt/lib/colt/ctag.rb	/^  def self.tags=(tags)$/;"	kind:singleton method	line:20	language:Ruby	class:Ctag
+targetfiles	./gem/colt/setup.rb	/^  def targetfiles$/;"	kind:method	line:1393	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+test_truth	./gem/colt/test/test_colt.rb	/^  def test_truth$/;"	kind:method	line:8	language:Ruby	class:TestColt
+text	./gem/colt/lib/colt/window.rb	/^  def text(str, opts = nil)$/;"	kind:method	line:64	language:Ruby	class:Window
+text	./window.rb	/^  def text(str, opts = nil)$/;"	kind:method	line:64	language:Ruby	class:Window
+text_at	./gem/colt/lib/colt/window.rb	/^  def text_at(y, x, str, opts = nil)$/;"	kind:method	line:58	language:Ruby	class:Window
+text_at	./window.rb	/^  def text_at(y, x, str, opts = nil)$/;"	kind:method	line:58	language:Ruby	class:Window
+to_s	./gem/colt/setup.rb	/^    def to_s$/;"	kind:method	line:1331	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer.Shebang
+traverse	./gem/colt/setup.rb	/^  def traverse(task, rel, mid)$/;"	kind:method	line:1529	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+update_shebang_line	./gem/colt/setup.rb	/^  def update_shebang_line(path)$/;"	kind:method	line:1265	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+valid_task?	./gem/colt/setup.rb	/^  def valid_task?(t)$/;"	kind:method	line:884	language:Ruby	class:ConfigTable.ToplevelInstaller
+valid_task_re	./gem/colt/setup.rb	/^  def valid_task_re$/;"	kind:method	line:888	language:Ruby	class:ConfigTable.ToplevelInstaller
+value	./gem/colt/setup.rb	/^    def value$/;"	kind:method	line:340	language:Ruby	class:ConfigTable.multipackage_entries.Item
+value?	./gem/colt/setup.rb	/^    def value?$/;"	kind:method	line:336	language:Ruby	class:ConfigTable.multipackage_entries.Item
+value?	./gem/colt/setup.rb	/^    def value?$/;"	kind:method	line:432	language:Ruby	class:ConfigTable.multipackage_entries.ExecItem
+value_config?	./gem/colt/setup.rb	/^    def value_config?(name)$/;"	kind:method	line:495	language:Ruby	class:ConfigTable.multipackage_entries.MetaConfigEnvironment
+value_config?	./gem/colt/setup.rb	/^  def value_config?(name)$/;"	kind:method	line:313	language:Ruby	class:ConfigTable.multipackage_entries
+verbose?	./gem/colt/setup.rb	/^  def verbose?$/;"	kind:method	line:1146	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.packages=
+verbose?	./gem/colt/setup.rb	/^  def verbose?$/;"	kind:method	line:1200	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer
+verbose?	./gem/colt/setup.rb	/^  def verbose?$/;"	kind:method	line:65	language:Ruby	class:ConfigTable
+verbose_off	./gem/colt/setup.rb	/^  def verbose_off$/;"	kind:method	line:1209	language:Ruby	class:ConfigTable.ToplevelInstaller.ToplevelInstallerMulti.Installer

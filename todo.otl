@@ -1,0 +1,15 @@
+TODO
+	[_] Add config file
+		: Call it .colt and it should be searched for in current dir  
+		: (to allow different settings for different dirs i.e projects) it
+		: should include directives such as:
+		:   ignore_dirs
+		:   ignore_files
+		:   key bindings (for keys: e (edit) and v (view)
+	[_] Make it into a gem
+	[_] Write tests (at least for ctag class)
+	[_] Add help
+	[_] Write simple man page
+	[_] Optimize search somehow (really slow on large files, tried one with >80k tags)
+
+
